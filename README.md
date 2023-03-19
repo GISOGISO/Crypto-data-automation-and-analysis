@@ -11,10 +11,10 @@
 * Plotted a graph of the top 15 cryptocurrencies  
 ![](https://github.com/GISOGISO/Crypto_data_automation_and_analysis/blob/main/images/top%2015%20crypto.png)  
 
-Plotted the price of BTC during the project timeframe  
+* Extracted price of Bitcoin(BTC) from the csv file and visualise the price movements during the project timeframe:  
 ![](https://github.com/GISOGISO/Crypto_data_automation_and_analysis/blob/main/images/BTC%20performance.png)  
 
-* Obtained the max and min BTC price during the timeframe:  
+* Obtained the max and min BTC price during the project timeframe:  
 Max: USD 24832.986  
 Min: USD 24088.178
 
