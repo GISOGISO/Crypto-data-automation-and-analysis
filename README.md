@@ -1,13 +1,20 @@
-# [Crypto data automation and analysis] 
-* automating crypto API pull
-* data cleaning
-* data visualisation
+# Cryptocurrencies data automation demo  
+* Automated crypto API pull demo 
+* Data cleaning  
+* Data visualisation  
+* Optimized requests, json, os, time, seaborn etc. to reach the best model. 
 
 
-Template:
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
+# Project Overview  
+* Engineered a function to automatically get crypto data from Coinmarketcap API every 5 minutes. (Project duration: 2023-03-15 1437 - 1808) 
+* Saved the data into a CSV file for further data cleaning and processing 
+* Plotted a graph of the top 15 cryptocurrencies  
+![](https://github.com/GISOGISO/Crypto_data_automation_and_analysis/blob/main/images/top%2015%20crypto.png)  
+
+Plotted the price of BTC during the project timeframe  
+![](https://github.com/GISOGISO/Crypto_data_automation_and_analysis/blob/main/images/BTC%20performance.png)  
+
+* Obtained the max and min BTC price during the timeframe:  
+Max: USD 24832.986  
+Min: USD 24088.178
 
